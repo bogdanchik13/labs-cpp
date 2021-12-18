@@ -1,0 +1,29 @@
+﻿  Car.cpp
+  Main.cpp
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(7,24): warning C4584: Minibus: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Car.h(6): message : см. объявление "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(7,29): warning C4584: PassengerCar: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Car.h(6): message : см. объявление "Car"
+  Minibus.cpp
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.h(7,24): warning C4584: Minibus: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Car.h(6): message : см. объявление "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Minibus.cpp(7,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  PassengerCar.cpp
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(3,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(4,10): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.h(7,29): warning C4584: PassengerCar: базовый класс "IFuelConsumer" уже является базовым классом для "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\IFuelConsumer.h(3): message : см. объявление "IFuelConsumer"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\Car.h(6): message : см. объявление "Car"
+C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\lab3.2\PassengerCar.cpp(9,18): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  LINK : не найден или не выполнена сборка C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\Debug\lab3.2.exe при последней инкрементной компоновке; выполняется полная компоновка
+  lab3.2.vcxproj -> C:\Users\Пользователь\Desktop\Laba_3\lab3.2\lab3.2\Debug\lab3.2.exe
